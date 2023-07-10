@@ -1,1 +1,1 @@
-task 0, whare am i?
+0x02-shell_redirections
