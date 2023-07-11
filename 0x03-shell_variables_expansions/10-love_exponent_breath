@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (($BREATHE**£LOVE))
+echo (($BREATH**$LOVE))
